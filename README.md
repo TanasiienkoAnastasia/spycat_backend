@@ -5,7 +5,7 @@
 ## Вимоги
 
 - Python 3.9+
-- virtualenv (рекомендовано)
+- virtualenv 
 
  Встановлення
 
